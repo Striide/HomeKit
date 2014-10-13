@@ -1,3 +1,6 @@
+So far, this seems to be the best demo/code that I have tested.
+
+
 HomeKit
 ---
 
